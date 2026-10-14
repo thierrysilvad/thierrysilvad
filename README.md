@@ -84,6 +84,12 @@ Cada tarefa fecha com prova: PR mergeado, CI e deploy verdes e a versão no ar c
 ![Python](https://img.shields.io/badge/Python-0F0F10?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Tailwind](https://img.shields.io/badge/Tailwind-0F0F10?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 ![Vercel](https://img.shields.io/badge/Vercel-0F0F10?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0F0F10?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-0F0F10?style=for-the-badge&logo=claude&logoColor=D97757)
+![Codex](https://img.shields.io/badge/Codex-0F0F10?style=for-the-badge&logo=openai&logoColor=white)
+![Kimi](https://img.shields.io/badge/Kimi-0F0F10?style=for-the-badge&logo=kimi&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-0F0F10?style=for-the-badge&logo=lovable&logoColor=FF4D8D)
+![OpenAI](https://img.shields.io/badge/OpenAI-0F0F10?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
