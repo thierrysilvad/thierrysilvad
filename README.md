@@ -1,79 +1,41 @@
-<h1 align="center">Thierry Silva</h1>
+# Thierry Silva
+**Forward Deployed Engineer em formação · Fundador da AtriaHub · Natal, RN**
 
-<p align="center"><i>Forward Deployed Engineer | IA, agentes e automação | Supabase + SaaS</i></p>
+Eu pego um trabalho manual e cheio de regra dentro de uma empresa e o transformo em operação com IA, automação e software sob medida. O que combino com o cliente é o **resultado**, e não horas.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/devthierry"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:gestorthierry@gmail.com"><img src="https://img.shields.io/badge/E--MAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://wa.me/5584988851138"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/NATAL%2FRN-111111?style=for-the-badge&logo=googlemaps&logoColor=white" />
-</p>
+## O que eu faço
+- **Agentes de IA e automação** para tarefas repetitivas, com humano aprovando o que é irreversível.
+- **Sistemas sob medida:** SaaS, CRMs, portais e dashboards.
+- **Tráfego pago (Meta Ads e Google Ads)** para PMEs regionais, o que me mantém perto de quem executa o trabalho.
 
----
+## Como eu trabalho
+1. **Discovery com quem executa o trabalho**, não só com o dono.
+2. **PRD aprovado pelo cliente** antes de qualquer código, com o que o sistema nunca faz.
+3. **Entrega em fatias**, cada uma publicada e provada ponta a ponta.
+4. **Operação:** monitor, backup testado e custo informado ao cliente.
 
-Entendo a dor da empresa e construo soluções acessíveis e escaláveis,
-com IA do diagnóstico ao resultado medido.
+Cada tarefa fecha com prova: PR mergeado, CI e deploy verdes e a versão no ar conferida. Decisão importante vira registro (ADR), não fica só em conversa.
 
-Fundador da **AtriaHub**, onde junto estratégia, automação e software para transformar a operação de pequenas e médias empresas.
+## Cases
+### Atria Six Benefícios
+- **Problema:** corretoras de plano de saúde conferem comissão e parcelas de operadoras à mão.
+- **O que construí:** SaaS de contratos, parcelas, comissões e conciliação automática (Next.js + Supabase).
+- **Status:** lançamento previsto para novembro de 2026.
 
-## 🏢 Onde atuo
+### Proteg Corretora de Benefícios
+- **Problema:** operação da corretora espalhada em controles manuais.
+- **O que construí:** sistema único sob medida para a operação.
+- **Status:** concluído e entregue.
 
-| | |
-|---|---|
-| **AtriaHub** | Fundador. IA, agentes, automação e SaaS |
-| **Tráfego pago** | Meta Ads e Google Ads para PMEs regionais |
-| **Engenharia de software** | Em formação, construindo produto em produção |
+### Amélia
+- **O que é:** landing page de captação para o sistema de corretores de saúde.
+- **Status:** no ar.
 
-## 💼 Cases
+## Stack
+Supabase · Next.js · TypeScript · React · Python · Tailwind · Vercel
 
-> Cliente que não autorizou o nome aparece pelo setor.
+> O código de produto e de clientes está em repositórios privados.
 
-### 1. Atria Six Benefícios — SaaS para corretoras de plano de saúde
-
-- **Problema:** a corretora não sabia quanto a operadora realmente devia. Contratos, parcelas e comissões viviam em planilhas, e a conferência era manual, mês a mês. Do lado da aquisição, o lead que vinha do tráfego pago chegava solto, sem origem rastreável.
-- **Solução:** SaaS próprio cobrindo produtores, conta corrente, contratos, parcelas, comissões, pagamentos, relatórios e exceções, com conciliação automática entre corretora e operadoras. Next.js + Supabase.
-- **Resultado:** lead do patrocinado entra parametrizado e rastreável até a origem, ligando mídia e operação na mesma base. Lançamento do produto em novembro de 2026.
-
-### 2. Proteg Corretora de Benefícios — sistema sob medida
-
-- **Problema:** a corretora operava com processos manuais e sem um sistema que desse conta da rotina dela.
-- **Solução:** desenvolvimento de um sistema único para a corretora de saúde, feito sob medida para a operação deles.
-- **Resultado:** projeto concluído e entregue.
-
-### 3. Amélia — landing page para operação de corretores de saúde
-
-- **Problema:** a operação precisava de uma porta de entrada própria para captar corretores de saúde.
-- **Solução:** landing page desenvolvida para o sistema de corretores de saúde, projeto ligado ao Atria Six Benefícios.
-- **Resultado:** página no ar, integrada à operação do Six.
-
-## 🧠 Como eu trabalho
-
-| Um fornecedor recebe | Um FDE recebe |
-|---|---|
-| "Construa essa funcionalidade." | "Resolva esse problema." |
-
-Agente não é chatbot. O que sustenta agente em produção é o governo em volta dele: permissões, memória, avaliação e métrica de resultado.
-
-## 📦 Código
-
-O código de produto e de cliente fica em repositórios privados. Os projetos acima estão entre eles.
-
-## 🛠️ Stack
-
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Meta Ads](https://img.shields.io/badge/Meta%20Ads-0866FF?style=flat-square&logo=meta&logoColor=white)
-![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=flat-square&logo=googleads&logoColor=white)
-
-## 📫 Vamos conversar
-
-Tem uma operação para tirar do papel, ou um projeto de IA que parou na apresentação?
-
-Me conta o que trava hoje. Se eu não for a pessoa certa, eu digo na primeira conversa.
-
-**WhatsApp:** (84) 98885-1138 · **E-mail:** gestorthierry@gmail.com
+## Vamos conversar
+Tem uma tarefa na sua operação que alguém faz copiando dado de um lugar para outro? É o melhor ponto de partida.
+📲 WhatsApp: (84) 98885-1138 · ✉️ gestorthierry@gmail.com · [LinkedIn](https://linkedin.com/in/devthierry)
