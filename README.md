@@ -16,7 +16,14 @@ O que combino com o cliente é o **resultado**, e não horas.
 
 <br><br>
 
-<img src="assets/stats.svg" alt="3 cases · PRD antes do código · PR+CI+deploy · Resultado, não horas" width="100%">
+<table>
+<tr>
+<td><img src="assets/stat1.svg" alt="Cases" width="100%"></td>
+<td><img src="assets/stat2.svg" alt="Código" width="100%"></td>
+<td><img src="assets/stat3.svg" alt="Prova" width="100%"></td>
+<td><img src="assets/stat4.svg" alt="Cobrança" width="100%"></td>
+</tr>
+</table>
 
 </div>
 
