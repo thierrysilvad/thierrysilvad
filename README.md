@@ -10,7 +10,7 @@ O que combino com o cliente é o **resultado**, e não horas.
 <br>
 
 <a href="https://wa.me/5584988851138"><img src="https://img.shields.io/badge/WHATSAPP-(84)_98885--1138-FF5C00?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-<a href="mailto:gestorthierry@gmail.com"><img src="https://img.shields.io/badge/E--MAIL-gestorthierry@gmail.com-0F0F10?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+<a href="mailto:devthierryc@gmail.com"><img src="https://img.shields.io/badge/E--MAIL-devthierryc@gmail.com-0F0F10?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
 <a href="https://linkedin.com/in/devthierry"><img src="https://img.shields.io/badge/LINKEDIN-devthierry-0F0F10?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <img src="https://img.shields.io/badge/NATAL%2FRN-FUNDADOR_DA_ATRIAHUB-0F0F10?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Natal/RN">
 
