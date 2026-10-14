@@ -1,41 +1,87 @@
-# Thierry Silva
-**Forward Deployed Engineer em formação · Fundador da AtriaHub · Natal, RN**
+<div align="center">
 
-Eu pego um trabalho manual e cheio de regra dentro de uma empresa e o transformo em operação com IA, automação e software sob medida. O que combino com o cliente é o **resultado**, e não horas.
+<img src="assets/banner.svg" alt="Thierry Silva · Forward Deployed Engineer em formação" width="100%">
+
+<br>
+
+**Eu pego um trabalho manual e cheio de regra dentro de uma empresa e o transformo em operação com IA, automação e software sob medida.**
+O que combino com o cliente é o **resultado**, e não horas.
+
+<br>
+
+<a href="https://wa.me/5584988851138"><img src="https://img.shields.io/badge/WHATSAPP-(84)_98885--1138-FF5C00?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+<a href="mailto:gestorthierry@gmail.com"><img src="https://img.shields.io/badge/E--MAIL-gestorthierry@gmail.com-0F0F10?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+<a href="https://linkedin.com/in/devthierry"><img src="https://img.shields.io/badge/LINKEDIN-devthierry-0F0F10?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<img src="https://img.shields.io/badge/NATAL%2FRN-FUNDADOR_DA_ATRIAHUB-0F0F10?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Natal/RN">
+
+<br><br>
+
+<img src="assets/stats.svg" alt="3 cases · PRD antes do código · PR+CI+deploy · Resultado, não horas" width="100%">
+
+</div>
+
+<br>
 
 ## O que eu faço
+
 - **Agentes de IA e automação** para tarefas repetitivas, com humano aprovando o que é irreversível.
 - **Sistemas sob medida:** SaaS, CRMs, portais e dashboards.
 - **Tráfego pago (Meta Ads e Google Ads)** para PMEs regionais, o que me mantém perto de quem executa o trabalho.
 
+<br>
+
 ## Como eu trabalho
-1. **Discovery com quem executa o trabalho**, não só com o dono.
-2. **PRD aprovado pelo cliente** antes de qualquer código, com o que o sistema nunca faz.
-3. **Entrega em fatias**, cada uma publicada e provada ponta a ponta.
-4. **Operação:** monitor, backup testado e custo informado ao cliente.
+
+<div align="center">
+<table>
+<tr>
+<td><img src="assets/chip1.svg" alt="01 Discovery" width="100%"></td>
+<td><img src="assets/chip2.svg" alt="02 PRD aprovado" width="100%"></td>
+<td><img src="assets/chip3.svg" alt="03 Entrega em fatias" width="100%"></td>
+<td><img src="assets/chip4.svg" alt="04 Operação" width="100%"></td>
+</tr>
+</table>
+</div>
 
 Cada tarefa fecha com prova: PR mergeado, CI e deploy verdes e a versão no ar conferida. Decisão importante vira registro (ADR), não fica só em conversa.
 
+<br>
+
 ## Cases
-### Atria Six Benefícios
-- **Problema:** corretoras de plano de saúde conferem comissão e parcelas de operadoras à mão.
-- **O que construí:** SaaS de contratos, parcelas, comissões e conciliação automática (Next.js + Supabase).
-- **Status:** lançamento previsto para novembro de 2026.
 
-### Proteg Corretora de Benefícios
-- **Problema:** operação da corretora espalhada em controles manuais.
-- **O que construí:** sistema único sob medida para a operação.
-- **Status:** concluído e entregue.
+<div align="center">
+<table>
+<tr>
+<td width="50%"><img src="assets/case1.svg" alt="Atria Six Benefícios" width="100%"></td>
+<td width="50%"><img src="assets/case2.svg" alt="Proteg Corretora" width="100%"></td>
+</tr>
+<tr>
+<td width="50%"><img src="assets/case3.svg" alt="Amélia" width="100%"></td>
+<td width="50%"><img src="assets/case4.svg" alt="Seu caso aqui" width="100%"></td>
+</tr>
+</table>
 
-### Amélia
-- **O que é:** landing page de captação para o sistema de corretores de saúde.
-- **Status:** no ar.
+<sub>O código de produto e de clientes está em repositórios privados.</sub>
+</div>
+
+<br>
 
 ## Stack
-Supabase · Next.js · TypeScript · React · Python · Tailwind · Vercel
 
-> O código de produto e de clientes está em repositórios privados.
+<div align="center">
+
+![Supabase](https://img.shields.io/badge/Supabase-0F0F10?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
+![Next.js](https://img.shields.io/badge/Next.js-0F0F10?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0F0F10?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-0F0F10?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-0F0F10?style=for-the-badge&logo=python&logoColor=3776AB)
+![Tailwind](https://img.shields.io/badge/Tailwind-0F0F10?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Vercel](https://img.shields.io/badge/Vercel-0F0F10?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+<br>
 
 ## Vamos conversar
+
 Tem uma tarefa na sua operação que alguém faz copiando dado de um lugar para outro? É o melhor ponto de partida.
-📲 WhatsApp: (84) 98885-1138 · ✉️ gestorthierry@gmail.com · [LinkedIn](https://linkedin.com/in/devthierry)
