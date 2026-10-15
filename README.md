@@ -64,6 +64,10 @@ Cada tarefa fecha com prova: PR mergeado, CI e deploy verdes e a versão no ar c
 </tr>
 <tr>
 <td width="50%"><img src="assets/case3.svg" alt="Amélia" width="100%"></td>
+<td width="50%"><img src="assets/case5.svg" alt="MedVision" width="100%"></td>
+</tr>
+<tr>
+<td width="50%"><img src="assets/case6.svg" alt="OdontoGPT" width="100%"></td>
 <td width="50%"><img src="assets/case4.svg" alt="Seu caso aqui" width="100%"></td>
 </tr>
 </table>
