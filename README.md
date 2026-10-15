@@ -75,6 +75,12 @@ Cada tarefa fecha com prova: PR mergeado, CI e deploy verdes e a versão no ar c
 <sub>O código de produto e de clientes está em repositórios privados.</sub>
 </div>
 
+- **Atria Six Benefícios:** SaaS para corretoras de planos de saúde, com contratos, parcelas e conciliação financeira. Lançamento previsto para nov/2026.
+- **Proteg Corretora:** sistema sob medida para uma corretora de benefícios de saúde, concluído e em operação.
+- **Amélia:** landing page de captação do sistema de corretores de saúde, ligada ao ecossistema Atria Six.
+- **MedVision:** sistema que ajuda profissionais da medicina a elaborar laudos, no ar.
+- **OdontoGPT:** plataforma com IA para estudantes de odontologia, calibrada com livros e artigos científicos. Ajuda com simulados de provas e concursos e tira dúvidas das disciplinas da faculdade.
+
 <br>
 
 ## Stack
